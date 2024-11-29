@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="f4669c66-ebc5-4a57-8c89-5c4345ce568e" name="laptopshop">
+      <data-sources db="aa994b61-4994-44f1-acd2-caa307a21ae8" />
+    </mapping>
+    <mapping uuid="4688e04a-eb01-4179-9341-7e430bca63d3" name="quizdb">
+      <data-sources db="4031e330-44ef-4dc7-ae25-fc8999c78736" />
+    </mapping>
+  </component>
+</project>
